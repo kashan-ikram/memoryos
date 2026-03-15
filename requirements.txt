@@ -1,0 +1,11 @@
+streamlit
+groq
+chromadb
+sentence-transformers
+supabase
+bcrypt
+psycopg2-binary
+openai-whisper
+Pillow
+pytesseract
+ffmpeg-python
